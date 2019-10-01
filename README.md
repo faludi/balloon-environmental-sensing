@@ -6,4 +6,4 @@ Use this MicroPython code with a Pycom LoPy4 or FiPy to create a party-balloon p
 
 More info on my blog:
 https://www.faludi.com/balloon-environmental-sensing/
-balloon-iot-environmental-sensing-takes-to-the-air
+https://www.faludi.com/balloon-iot-environmental-sensing-takes-to-the-air
